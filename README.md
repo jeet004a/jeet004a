@@ -17,7 +17,7 @@ Joined Github 6+ years ago.
 
 Since then I pushed more than **300**+ commits, opened **3**+ issues, submitted more than **20**+ pull requests, created **2**+ gists and contributed to **0**+ public repositories as of now.
 
-<a href="https://vikrantbhat.com/about" target="_blank">
+<a href="https://jeet004a.github.io/Jeet.com/" target="_blank">
 	<img align="right" width="375" alt="" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHoyOHl6ajFkeDk0eXdrcWN5c2Jqa25laTJxZjhsaDkyN3BqaDR4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Sl3tiY78IKRTAFJouc/giphy.gif" />
 </a>
 
