@@ -24,12 +24,11 @@ Since then I pushed more than **300**+ commits, opened **3**+ issues, submitted 
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; I work with NextJS, React, Typescript, NodeJS, ReactNative, Apollo, Motion & TailwindCSS.
+- 🛠 &nbsp; I work with NextJS, React, Typescript, NodeJS, ExpressJS, ReactNative, Apollo, Motion & TailwindCSS.
 - 👀 &nbsp; What I want to learn: Three.js & Blender.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/bhatvikrant).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/bhatvikrant/bhatVikrant/issues/1)! I am happy to help.
+- 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/jeet-wasti-537838158/)! I am happy to help.
 - 👾 &nbsp; Fun fact: undefined can be defined in Javascript. <!-- > var some_var; undefined > some_var == undefined true > undefined = 'i am undefined' -->
-- 📫 &nbsp; How to reach me: [Twitter](https://twitter.com/vikrantbhat1022).
+- 📫 &nbsp; How to reach me: [Twitter](https://x.com/Jeet63503660025).
   <!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/bhatvikrant/bhatvikrant/blob/master/resume.pdf). (Haven't update it in a while, but here you go) -->
   <!-- - 🚀 &nbsp; I’m currently learning Full Stack Development. -->
 
@@ -37,7 +36,7 @@ Since then I pushed more than **300**+ commits, opened **3**+ issues, submitted 
 
 - 💻 &nbsp; I am very enterprising and one day I'd like to build a business that reflects me and my ideas.
 - 📰 &nbsp; I like to read books, take notes of the words that leave a mark on me.
-- 🍕 &nbsp; I love Pizza & Travel.
+- 🍕 &nbsp; I love Pizza & Football.
 
 ### Languages and Tools:
 
