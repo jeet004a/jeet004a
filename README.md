@@ -6,7 +6,6 @@
 
 ✍🏻 **Sign my guestbook here** _(coming soon…)_
 
-### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=bhatvikrant&color=blue)
+### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=jeet004a&color=blue)
 
-<img align="right" width="100" alt="" src="https://komarev.com/ghpvc/?username=jeet004a&label=Profile%20views&color=0e75b6&style=flat" />
 
