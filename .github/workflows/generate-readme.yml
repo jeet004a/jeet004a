@@ -1,6 +1,6 @@
 on:
   schedule:
-    - cron: "0 0 * * *" # runs at 00:00 UTC every day
+    - cron: "*/2 * * * *" # runs at 00:00 UTC every day
   push:
     branches:
       - master
@@ -20,7 +20,7 @@ jobs:
         run: |
           if [[ "$(git status --porcelain)" != "" ]]; then
           git config user.name "Jeet Bhat"
-          git config user.email wastijeet110@gamil.com
+          git config user.email wastijeet110@gmail.com
           # git config user.name "github-actions[bot]"
           # git config user.email github-actions[bot]@users.noreply.github.com
           git add .
