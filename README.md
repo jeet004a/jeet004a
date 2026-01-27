@@ -9,3 +9,11 @@
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=jeet004a&color=blue)
 
 
+
+I currently work at _(coming soon…)_ , I used to previously work for [Emerson](https://www.emerson.com/global). I love to build products that are beautiful, intuitive and delightful to use.
+
+
+Joined Github 6+ years ago.
+
+Since then I pushed more than **300**+ commits, opened **3**+ issues, submitted more than **20**+ pull requests, created **2**+ gists and contributed to **0**+ public repositories as of now.
+
