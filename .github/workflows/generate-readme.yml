@@ -1,29 +1,39 @@
+name: Update README
+
 on:
   schedule:
-    - cron: "*/5 * * * *" # runs at 00:00 UTC every day
+    - cron: "*/5 * * * *" # every 5 minutes (UTC)
   push:
     branches:
       - master
+  workflow_dispatch: # manual trigger (IMPORTANT)
+
+permissions:
+  contents: write
+
 jobs:
   publish:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
         with:
           fetch-depth: 0
+
       - name: Generate README.md
         uses: teoxoy/profile-readme-stats@master
         with:
           token: ${{ secrets.USER_TOKEN }}
           includeForks: true
-      - name: Update README.md
+
+      - name: Commit and Push changes
         run: |
-          if [[ "$(git status --porcelain)" != "" ]]; then
-          git config user.name "Jeet Bhat"
-          git config user.email wastijeet110@gmail.com
-          # git config user.name "github-actions[bot]"
-          # git config user.email github-actions[bot]@users.noreply.github.com
-          git add .
-          git commit -m "Update README"
-          git push
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git config user.name "Jeet Wasti"
+            git config user.email "wastijeet110@gmail.com"
+            git add .
+            git commit -m "Update README"
+            git push
+          else
+            echo "No changes to commit"
           fi
