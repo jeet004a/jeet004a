@@ -51,3 +51,18 @@ Since then I pushed more than **300**+ commits, opened **3**+ issues, submitted 
 <code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+
+
+
+
+
+### Projects and Dev Stuff:
+
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+
+![jeets's Stats](https://github-readme-stats.vercel.app/api?username=jeet004a&theme=dark&show_icons=true&hide_border=true&count_private=true)
+
+![jeet's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeet004a&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
+</details>
