@@ -1,12 +1,64 @@
-<h1 align="center">Hi 👋, I'm Jeet</h1>
-<h3 align="center">A passionate full stack developer</h3>
+# Hey 👋, I'm Jeet Wasti!  
+Welcome to my Dev space on the WWW 🚀
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeet004a&label=Profile%20views&color=0e75b6&style=flat" alt="jeet004a" /> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Twitter](https://img.shields.io/badge/Twitter-black?logo=x&logoColor=white)](https://twitter.com/)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white)](https://dev.to/)
+[![Hashnode](https://img.shields.io/badge/Hashnode-blue?logo=hashnode&logoColor=white)](https://hashnode.com/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/jeet-wasti-537838158" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/jeet-wasti-537838158" height="30" width="40" /></a>
-</p>
+✍🏻 **Sign my guestbook here** → _coming soon_
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
+
+## Glad to see you here! 😄
+
+I’m a **Software Engineer** who loves building scalable backend systems and clean, intuitive web applications.
+
+I enjoy working on **system design, microservices, and full-stack applications**, and I’m always curious about how large-scale systems work under the hood.
+
+🗓️ **Joined GitHub** a few years ago and still consistently learning & shipping.
+
+Since then, I’ve been actively:
+- pushing code regularly 🚀  
+- solving real-world problems  
+- contributing to projects & experiments  
+
+---
+
+## 💬 Talking about Personal Stuff
+
+- 🛠 **Tech I work with:**  
+  `Next.js`, `React`, `JavaScript`, `TypeScript`, `Node.js`, `Express`, `Kafka`, `MongoDB`, `PostgreSQL`, `Elasticsearch`, `TailwindCSS`
+
+- 👀 **Currently learning:**  
+  System Design (LLD & HLD), Distributed Systems, Cloud Architecture
+
+- 👨🏻‍💻 **Projects:**  
+  Most of my work is available right here on **GitHub**
+
+- 💬 **Ask me about:**  
+  JavaScript, Backend Development, Microservices, LLD Interview Prep
+
+- 👾 **Fun fact:**  
+  `undefined` can be defined in JavaScript 😄
+
+- 📫 **How to reach me:**  
+  Twitter / LinkedIn (links above)
+
+---
+
+## ❤️ My Absolute Favorites
+
+- 💻 I love designing systems that scale and writing code that’s easy to reason about
+- 📰 I enjoy reading tech blogs, system design articles, and taking notes
+- 🍕 Big fan of Pizza, Travel & late-night debugging
+
+---
+
+## 🧰 Languages and Tools
+
+```text
+JavaScript   TypeScript   Node.js   Express
+React        Next.js      Kafka     Elasticsearch
+MongoDB     PostgreSQL   Git        Docker
+TailwindCSS Terminal     Linux
