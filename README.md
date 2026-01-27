@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Vikrant Bhat!](https://vikrantbhat.com) and you've reached my Dev space on the WWW :)
+## Hey 👋, I'm [Jeet Wasti!](https://vikrantbhat.com) and you've reached my Dev space on the WWW :)
 
 <!-- [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://vikrantbhat.com/) -->
 
@@ -13,7 +13,7 @@
 
 <img align="right" width="100" alt="" src="assets/atlassian.png" />
 
-I currently work at [Atlassian](https://atlassian.com/), I used to previously work for [Razorpay](https://razorpay.com/). I love to build products that are beautiful, intuitive and delightful to use.
+I currently work at [...coming soon), I used to previously work for [Emerson](https://www.emerson.com/global). I love to build products that are beautiful, intuitive and delightful to use.
 
 Joined Github 6+ years ago.
 
@@ -27,12 +27,11 @@ Since then I pushed **9489**+ commits, opened **78**+ issues, submitted **171**+
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; I work with NextJS, React, Typescript, NodeJS, ReactNative, Apollo, Motion & TailwindCSS.
+- 🛠 &nbsp; I work with NodeJS, Express.JS, React, Typescript, ReactNative, Apollo, Motion & TailwindCSS.
 - 👀 &nbsp; What I want to learn: Three.js & Blender.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/bhatvikrant).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/bhatvikrant/bhatVikrant/issues/1)! I am happy to help.
+- 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/jeet-wasti-537838158/)! I am happy to help.
 - 👾 &nbsp; Fun fact: undefined can be defined in Javascript. <!-- > var some_var; undefined > some_var == undefined true > undefined = 'i am undefined' -->
-- 📫 &nbsp; How to reach me: [Twitter](https://twitter.com/vikrantbhat1022).
+- 📫 &nbsp; How to reach me: [Linkedin](https://www.linkedin.com/in/jeet-wasti-537838158/).
   <!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/bhatvikrant/bhatvikrant/blob/master/resume.pdf). (Haven't update it in a while, but here you go) -->
   <!-- - 🚀 &nbsp; I’m currently learning Full Stack Development. -->
 
@@ -40,7 +39,7 @@ Since then I pushed **9489**+ commits, opened **78**+ issues, submitted **171**+
 
 - 💻 &nbsp; I am very enterprising and one day I'd like to build a business that reflects me and my ideas.
 - 📰 &nbsp; I like to read books, take notes of the words that leave a mark on me.
-- 🍕 &nbsp; I love Pizza & Travel.
+- 🍕 &nbsp; I love Pizza & Football.
 
 ### Languages and Tools:
 
