@@ -23,7 +23,7 @@ jobs:
       - name: Generate README.md
         uses: teoxoy/profile-readme-stats@master
         with:
-          token: ${{ secrets.USER_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           includeForks: true
       # 👇 ADD THIS STEP HERE
       - name: Force change (testing only)
