@@ -2,11 +2,11 @@ name: Update README
 
 on:
   schedule:
-    - cron: "0 */8 * * *"   # runs every 8 hours (UTC)   # runs every 5 minutes (UTC)
+    - cron: "0 */8 * * *"
   push:
     branches:
       - main
-  workflow_dispatch: # manual trigger (IMPORTANT)
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -23,18 +23,14 @@ jobs:
       - name: Generate README.md
         uses: teoxoy/profile-readme-stats@master
         with:
-          token: ${{ secrets.USER_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           includeForks: true
-      # 👇 ADD THIS STEP HERE
-      - name: Force change (testing only)
-        run: |
-          date > .last_run
 
       - name: Commit and Push changes
         run: |
           if [[ -n "$(git status --porcelain)" ]]; then
-            git config user.name "Jeet Wasti"
-            git config user.email "wastijeet110@gmail.com"
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git add .
             git commit -m "Update README"
             git push
